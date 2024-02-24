@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom/client";
-import App from "./components/Table";
+import Table from "./components/Table";
 const App = () => {
   return (
     <div className="app">
