@@ -3,9 +3,9 @@ import ReactDom from "react-dom/client";
 import Table from "./components.js/Table";
 const Applayout = () => {
   return (
-    <div className="app">
+    <>
       <Table />
-    </div>
+    </>
   );
 };
 
